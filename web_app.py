@@ -3,7 +3,7 @@ Avinash Pasupulate
 avinash.pasupulate@gmail.com
 14th December 2018
 
-Creating interface for searching through IT transaction records
+Creating interface for searching through records
 """
 
 #importing required packages
